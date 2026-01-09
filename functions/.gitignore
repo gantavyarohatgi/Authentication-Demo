@@ -1,0 +1,8 @@
+node_modules/
+*.local
+firebase-debug.log
+firebase-debug.log.*
+
+# HIDE THE SECRETS
+secrets.js
+.runtimeconfig.json
