@@ -88,7 +88,7 @@ exports.sendEmailOTP = functions.https.onCall(async (data, context) => {
 exports.verifyEmailOTP = functions.https.onCall(async (data, context) => {
   const email = data.data.email;
   const userCode = data.data.code;
-    console.log("Hello");
+
   // Check Firestore
   const doc = await admin.firestore().collection('otp_codes').doc(email).get();
 
@@ -96,7 +96,21 @@ exports.verifyEmailOTP = functions.https.onCall(async (data, context) => {
     throw new functions.https.HttpsError('not-found', 'Email not found or expired');
   }
 
-  const serverOtp = doc.data().otp;
+  // 2. CHECK EXPIRATION (New Logic)
+      // Firestore Timestamps need .toDate() to become JavaScript Dates
+      docData = doc.data();
+      const otpTime = docData.timestamp.toDate().getTime();
+      const currentTime = Date.now();
+      const timeDiff = currentTime - otpTime; // Difference in milliseconds
+      const fiveMinutes = 5 * 60 * 1000;
+
+      if (timeDiff > fiveMinutes) {
+          // Delete the expired code so they can't try again
+          await admin.firestore().collection('otp_codes').doc(email).delete();
+          throw new functions.https.HttpsError('deadline-exceeded', 'OTP has expired. Please request a new one.');
+      }
+
+  const serverOtp = docData.otp;
 
   if (serverOtp === userCode) {
     // Correct OTP!

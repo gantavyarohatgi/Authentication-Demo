@@ -35302,3 +35302,226 @@ INFO: Detected non-HTTP/2 connection.
 [debug] [2026-01-09T11:19:16.097Z] Jan 09, 2026 4:49:16 PM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead
 INFO: Detected non-HTTP/2 connection.
  {"metadata":{"emulator":{"name":"firestore"},"message":"Jan 09, 2026 4:49:16 PM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead\nINFO: Detected non-HTTP/2 connection.\n"}}
+[debug] [2026-01-09T11:20:16.150Z] Jan 09, 2026 4:50:16 PM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead
+INFO: Detected non-HTTP/2 connection.
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Jan 09, 2026 4:50:16 PM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead\nINFO: Detected non-HTTP/2 connection.\n"}}
+[debug] [2026-01-09T11:22:49.325Z] Jan 09, 2026 4:52:49 PM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead
+INFO: Detected non-HTTP/2 connection.
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Jan 09, 2026 4:52:49 PM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead\nINFO: Detected non-HTTP/2 connection.\n"}}
+[debug] [2026-01-09T11:23:49.397Z] Jan 09, 2026 4:53:49 PM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead
+INFO: Detected non-HTTP/2 connection.
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Jan 09, 2026 4:53:49 PM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead\nINFO: Detected non-HTTP/2 connection.\n"}}
+[debug] [2026-01-09T11:24:49.431Z] Jan 09, 2026 4:54:49 PM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead
+INFO: Detected non-HTTP/2 connection.
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Jan 09, 2026 4:54:49 PM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead\nINFO: Detected non-HTTP/2 connection.\n"}}
+[debug] [2026-01-09T11:26:04.586Z] Jan 09, 2026 4:56:04 PM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead
+INFO: Detected non-HTTP/2 connection.
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Jan 09, 2026 4:56:04 PM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead\nINFO: Detected non-HTTP/2 connection.\n"}}
+[debug] [2026-01-09T11:27:04.649Z] Jan 09, 2026 4:57:04 PM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead
+INFO: Detected non-HTTP/2 connection.
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Jan 09, 2026 4:57:04 PM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead\nINFO: Detected non-HTTP/2 connection.\n"}}
+[debug] [2026-01-09T11:28:04.687Z] Jan 09, 2026 4:58:04 PM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead
+INFO: Detected non-HTTP/2 connection.
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Jan 09, 2026 4:58:04 PM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead\nINFO: Detected non-HTTP/2 connection.\n"}}
+[debug] [2026-01-09T11:29:04.736Z] Jan 09, 2026 4:59:04 PM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead
+INFO: Detected non-HTTP/2 connection.
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Jan 09, 2026 4:59:04 PM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead\nINFO: Detected non-HTTP/2 connection.\n"}}
+[debug] [2026-01-09T11:29:24.276Z] Jan 09, 2026 4:59:24 PM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead
+INFO: Detected non-HTTP/2 connection.
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Jan 09, 2026 4:59:24 PM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead\nINFO: Detected non-HTTP/2 connection.\n"}}
+[debug] [2026-01-09T11:29:24.277Z] Jan 09, 2026 4:59:24 PM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead
+INFO: Detected non-HTTP/2 connection.
+Jan 09, 2026 4:59:24 PM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead
+INFO: Detected non-HTTP/2 connection.
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Jan 09, 2026 4:59:24 PM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead\nINFO: Detected non-HTTP/2 connection.\nJan 09, 2026 4:59:24 PM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead\nINFO: Detected non-HTTP/2 connection.\n"}}
+[debug] [2026-01-09T11:29:24.345Z] Jan 09, 2026 4:59:24 PM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead
+INFO: Detected HTTP/2 connection.
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Jan 09, 2026 4:59:24 PM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead\nINFO: Detected HTTP/2 connection.\n"}}
+[debug] [2026-01-09T11:29:26.039Z] Jan 09, 2026 4:59:26 PM com.google.cloud.datastore.emulator.firestore.websocket.WebSocketChannelHandler channelClosed
+INFO: Websocket client disconnected
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Jan 09, 2026 4:59:26 PM com.google.cloud.datastore.emulator.firestore.websocket.WebSocketChannelHandler channelClosed\nINFO: Websocket client disconnected\n"}}
+[debug] [2026-01-09T11:29:26.238Z] Jan 09, 2026 4:59:26 PM com.google.cloud.datastore.emulator.firestore.websocket.WebSocketChannelHandler initChannel
+INFO: Connected to new websocket client
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Jan 09, 2026 4:59:26 PM com.google.cloud.datastore.emulator.firestore.websocket.WebSocketChannelHandler initChannel\nINFO: Connected to new websocket client\n"}}
+[debug] [2026-01-09T11:29:26.356Z] Jan 09, 2026 4:59:26 PM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead
+INFO: Detected non-HTTP/2 connection.
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Jan 09, 2026 4:59:26 PM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead\nINFO: Detected non-HTTP/2 connection.\n"}}
+[debug] [2026-01-09T11:29:36.383Z] Jan 09, 2026 4:59:36 PM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead
+INFO: Detected non-HTTP/2 connection.
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Jan 09, 2026 4:59:36 PM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead\nINFO: Detected non-HTTP/2 connection.\n"}}
+[debug] [2026-01-09T11:30:26.438Z] Jan 09, 2026 5:00:26 PM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead
+INFO: Detected non-HTTP/2 connection.
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Jan 09, 2026 5:00:26 PM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead\nINFO: Detected non-HTTP/2 connection.\n"}}
+[debug] [2026-01-09T11:31:16.048Z] File /Users/hirdesh/AndroidStudioProjects/AuthDemo/functions/index.js changed, reloading triggers {"metadata":{"emulator":{"name":"functions"},"message":"File /Users/hirdesh/AndroidStudioProjects/AuthDemo/functions/index.js changed, reloading triggers"}}
+[debug] [2026-01-09T11:31:17.053Z] Validating nodejs source
+[warn] ⚠  functions: package.json indicates an outdated version of firebase-functions. Please upgrade using npm install --save firebase-functions@latest in your functions directory. 
+[debug] [2026-01-09T11:31:17.790Z] > [functions] package.json contents: {
+  "name": "functions",
+  "description": "Cloud Functions for Firebase",
+  "scripts": {
+    "serve": "firebase emulators:start --only functions",
+    "shell": "firebase functions:shell",
+    "start": "npm run shell",
+    "deploy": "firebase deploy --only functions",
+    "logs": "firebase functions:log"
+  },
+  "engines": {
+    "node": "24"
+  },
+  "main": "index.js",
+  "dependencies": {
+    "firebase-admin": "^13.6.0",
+    "firebase-functions": "^7.0.0",
+    "nodemailer": "^7.0.12"
+  },
+  "devDependencies": {
+    "firebase-functions-test": "^3.4.1"
+  },
+  "private": true
+}
+[debug] [2026-01-09T11:31:17.790Z] Building nodejs source
+[debug] [2026-01-09T11:31:17.790Z] Failed to find version of module node: reached end of search path /Users/hirdesh/AndroidStudioProjects/AuthDemo/functions/node_modules
+[info] ✔  functions: Using node@24 from host. 
+[debug] [2026-01-09T11:31:17.795Z] Could not find functions.yaml. Must use http discovery
+[debug] [2026-01-09T11:31:17.797Z] Found firebase-functions binary at '/Users/hirdesh/AndroidStudioProjects/AuthDemo/functions/node_modules/.bin/firebase-functions'
+[info] Serving at port 8535
+
+[debug] [2026-01-09T11:31:18.309Z] Got response from /__/functions.yaml {"endpoints":{"sendEmailOTP":{"availableMemoryMb":null,"timeoutSeconds":null,"minInstances":null,"maxInstances":null,"ingressSettings":null,"concurrency":null,"serviceAccountEmail":null,"vpc":null,"platform":"gcfv2","labels":{},"callableTrigger":{},"entryPoint":"sendEmailOTP"},"verifyEmailOTP":{"availableMemoryMb":null,"timeoutSeconds":null,"minInstances":null,"maxInstances":null,"ingressSettings":null,"concurrency":null,"serviceAccountEmail":null,"vpc":null,"platform":"gcfv2","labels":{},"callableTrigger":{},"entryPoint":"verifyEmailOTP"}},"specVersion":"v1alpha1","requiredAPIs":[],"extensions":{}}
+[debug] [2026-01-09T11:31:22.332Z] defaultcredentials: writing to file /Users/hirdesh/.config/firebase/gantavya2022_gmail_com_application_default_credentials.json
+[debug] [2026-01-09T11:31:22.333Z] Setting GAC to /Users/hirdesh/.config/firebase/gantavya2022_gmail_com_application_default_credentials.json {"metadata":{"emulator":{"name":"functions"},"message":"Setting GAC to /Users/hirdesh/.config/firebase/gantavya2022_gmail_com_application_default_credentials.json"}}
+[info] ✔  functions: Loaded functions definitions from source: sendEmailOTP, verifyEmailOTP. {"metadata":{"emulator":{"name":"functions"},"message":"Loaded functions definitions from source: sendEmailOTP, verifyEmailOTP."}}
+[debug] [2026-01-09T11:31:26.494Z] Jan 09, 2026 5:01:26 PM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead
+INFO: Detected non-HTTP/2 connection.
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Jan 09, 2026 5:01:26 PM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead\nINFO: Detected non-HTTP/2 connection.\n"}}
+[debug] [2026-01-09T11:31:26.502Z] Jan 09, 2026 5:01:26 PM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead
+INFO: Detected non-HTTP/2 connection.
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Jan 09, 2026 5:01:26 PM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead\nINFO: Detected non-HTTP/2 connection.\n"}}
+[debug] [2026-01-09T11:32:26.602Z] Jan 09, 2026 5:02:26 PM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead
+INFO: Detected non-HTTP/2 connection.
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Jan 09, 2026 5:02:26 PM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead\nINFO: Detected non-HTTP/2 connection.\n"}}
+[debug] [2026-01-09T11:32:56.687Z] Jan 09, 2026 5:02:56 PM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead
+INFO: Detected non-HTTP/2 connection.
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Jan 09, 2026 5:02:56 PM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead\nINFO: Detected non-HTTP/2 connection.\n"}}
+[debug] [2026-01-09T11:33:26.720Z] Jan 09, 2026 5:03:26 PM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead
+INFO: Detected non-HTTP/2 connection.
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Jan 09, 2026 5:03:26 PM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead\nINFO: Detected non-HTTP/2 connection.\n"}}
+[debug] [2026-01-09T11:33:43.073Z] File /Users/hirdesh/AndroidStudioProjects/AuthDemo/functions/index.js changed, reloading triggers {"metadata":{"emulator":{"name":"functions"},"message":"File /Users/hirdesh/AndroidStudioProjects/AuthDemo/functions/index.js changed, reloading triggers"}}
+[debug] [2026-01-09T11:33:44.095Z] Validating nodejs source
+[warn] ⚠  functions: package.json indicates an outdated version of firebase-functions. Please upgrade using npm install --save firebase-functions@latest in your functions directory. 
+[debug] [2026-01-09T11:33:44.649Z] > [functions] package.json contents: {
+  "name": "functions",
+  "description": "Cloud Functions for Firebase",
+  "scripts": {
+    "serve": "firebase emulators:start --only functions",
+    "shell": "firebase functions:shell",
+    "start": "npm run shell",
+    "deploy": "firebase deploy --only functions",
+    "logs": "firebase functions:log"
+  },
+  "engines": {
+    "node": "24"
+  },
+  "main": "index.js",
+  "dependencies": {
+    "firebase-admin": "^13.6.0",
+    "firebase-functions": "^7.0.0",
+    "nodemailer": "^7.0.12"
+  },
+  "devDependencies": {
+    "firebase-functions-test": "^3.4.1"
+  },
+  "private": true
+}
+[debug] [2026-01-09T11:33:44.649Z] Building nodejs source
+[debug] [2026-01-09T11:33:44.649Z] Failed to find version of module node: reached end of search path /Users/hirdesh/AndroidStudioProjects/AuthDemo/functions/node_modules
+[info] ✔  functions: Using node@24 from host. 
+[debug] [2026-01-09T11:33:44.650Z] Could not find functions.yaml. Must use http discovery
+[debug] [2026-01-09T11:33:44.652Z] Found firebase-functions binary at '/Users/hirdesh/AndroidStudioProjects/AuthDemo/functions/node_modules/.bin/firebase-functions'
+[info] Serving at port 8905
+
+[debug] [2026-01-09T11:33:45.211Z] Got response from /__/functions.yaml {"endpoints":{"sendEmailOTP":{"availableMemoryMb":null,"timeoutSeconds":null,"minInstances":null,"maxInstances":null,"ingressSettings":null,"concurrency":null,"serviceAccountEmail":null,"vpc":null,"platform":"gcfv2","labels":{},"callableTrigger":{},"entryPoint":"sendEmailOTP"},"verifyEmailOTP":{"availableMemoryMb":null,"timeoutSeconds":null,"minInstances":null,"maxInstances":null,"ingressSettings":null,"concurrency":null,"serviceAccountEmail":null,"vpc":null,"platform":"gcfv2","labels":{},"callableTrigger":{},"entryPoint":"verifyEmailOTP"}},"specVersion":"v1alpha1","requiredAPIs":[],"extensions":{}}
+[debug] [2026-01-09T11:33:49.239Z] defaultcredentials: writing to file /Users/hirdesh/.config/firebase/gantavya2022_gmail_com_application_default_credentials.json
+[debug] [2026-01-09T11:33:49.242Z] Setting GAC to /Users/hirdesh/.config/firebase/gantavya2022_gmail_com_application_default_credentials.json {"metadata":{"emulator":{"name":"functions"},"message":"Setting GAC to /Users/hirdesh/.config/firebase/gantavya2022_gmail_com_application_default_credentials.json"}}
+[info] ✔  functions: Loaded functions definitions from source: sendEmailOTP, verifyEmailOTP. {"metadata":{"emulator":{"name":"functions"},"message":"Loaded functions definitions from source: sendEmailOTP, verifyEmailOTP."}}
+[debug] [2026-01-09T11:34:09.815Z] File /Users/hirdesh/AndroidStudioProjects/AuthDemo/functions/index.js changed, reloading triggers {"metadata":{"emulator":{"name":"functions"},"message":"File /Users/hirdesh/AndroidStudioProjects/AuthDemo/functions/index.js changed, reloading triggers"}}
+[debug] [2026-01-09T11:34:10.819Z] Validating nodejs source
+[warn] ⚠  functions: package.json indicates an outdated version of firebase-functions. Please upgrade using npm install --save firebase-functions@latest in your functions directory. 
+[debug] [2026-01-09T11:34:11.372Z] > [functions] package.json contents: {
+  "name": "functions",
+  "description": "Cloud Functions for Firebase",
+  "scripts": {
+    "serve": "firebase emulators:start --only functions",
+    "shell": "firebase functions:shell",
+    "start": "npm run shell",
+    "deploy": "firebase deploy --only functions",
+    "logs": "firebase functions:log"
+  },
+  "engines": {
+    "node": "24"
+  },
+  "main": "index.js",
+  "dependencies": {
+    "firebase-admin": "^13.6.0",
+    "firebase-functions": "^7.0.0",
+    "nodemailer": "^7.0.12"
+  },
+  "devDependencies": {
+    "firebase-functions-test": "^3.4.1"
+  },
+  "private": true
+}
+[debug] [2026-01-09T11:34:11.372Z] Building nodejs source
+[debug] [2026-01-09T11:34:11.373Z] Failed to find version of module node: reached end of search path /Users/hirdesh/AndroidStudioProjects/AuthDemo/functions/node_modules
+[info] ✔  functions: Using node@24 from host. 
+[debug] [2026-01-09T11:34:11.373Z] Could not find functions.yaml. Must use http discovery
+[debug] [2026-01-09T11:34:11.375Z] Found firebase-functions binary at '/Users/hirdesh/AndroidStudioProjects/AuthDemo/functions/node_modules/.bin/firebase-functions'
+[info] Serving at port 8001
+
+[debug] [2026-01-09T11:34:11.820Z] Got response from /__/functions.yaml {"endpoints":{"sendEmailOTP":{"availableMemoryMb":null,"timeoutSeconds":null,"minInstances":null,"maxInstances":null,"ingressSettings":null,"concurrency":null,"serviceAccountEmail":null,"vpc":null,"platform":"gcfv2","labels":{},"callableTrigger":{},"entryPoint":"sendEmailOTP"},"verifyEmailOTP":{"availableMemoryMb":null,"timeoutSeconds":null,"minInstances":null,"maxInstances":null,"ingressSettings":null,"concurrency":null,"serviceAccountEmail":null,"vpc":null,"platform":"gcfv2","labels":{},"callableTrigger":{},"entryPoint":"verifyEmailOTP"}},"specVersion":"v1alpha1","requiredAPIs":[],"extensions":{}}
+[debug] [2026-01-09T11:34:15.847Z] defaultcredentials: writing to file /Users/hirdesh/.config/firebase/gantavya2022_gmail_com_application_default_credentials.json
+[debug] [2026-01-09T11:34:15.848Z] Setting GAC to /Users/hirdesh/.config/firebase/gantavya2022_gmail_com_application_default_credentials.json {"metadata":{"emulator":{"name":"functions"},"message":"Setting GAC to /Users/hirdesh/.config/firebase/gantavya2022_gmail_com_application_default_credentials.json"}}
+[info] ✔  functions: Loaded functions definitions from source: sendEmailOTP, verifyEmailOTP. {"metadata":{"emulator":{"name":"functions"},"message":"Loaded functions definitions from source: sendEmailOTP, verifyEmailOTP."}}
+[debug] [2026-01-09T11:34:16.860Z] Jan 09, 2026 5:04:16 PM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead
+INFO: Detected non-HTTP/2 connection.
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Jan 09, 2026 5:04:16 PM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead\nINFO: Detected non-HTTP/2 connection.\n"}}
+[debug] [2026-01-09T11:35:16.971Z] Jan 09, 2026 5:05:16 PM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead
+INFO: Detected non-HTTP/2 connection.
+ {"metadata":{"emulator":{"name":"firestore"},"message":"Jan 09, 2026 5:05:16 PM io.gapi.emulators.netty.HttpVersionRoutingHandler channelRead\nINFO: Detected non-HTTP/2 connection.\n"}}
+[debug] [2026-01-09T11:35:42.605Z] File /Users/hirdesh/AndroidStudioProjects/AuthDemo/functions/index.js changed, reloading triggers {"metadata":{"emulator":{"name":"functions"},"message":"File /Users/hirdesh/AndroidStudioProjects/AuthDemo/functions/index.js changed, reloading triggers"}}
+[debug] [2026-01-09T11:35:43.608Z] Validating nodejs source
+[warn] ⚠  functions: package.json indicates an outdated version of firebase-functions. Please upgrade using npm install --save firebase-functions@latest in your functions directory. 
+[debug] [2026-01-09T11:35:44.152Z] > [functions] package.json contents: {
+  "name": "functions",
+  "description": "Cloud Functions for Firebase",
+  "scripts": {
+    "serve": "firebase emulators:start --only functions",
+    "shell": "firebase functions:shell",
+    "start": "npm run shell",
+    "deploy": "firebase deploy --only functions",
+    "logs": "firebase functions:log"
+  },
+  "engines": {
+    "node": "24"
+  },
+  "main": "index.js",
+  "dependencies": {
+    "firebase-admin": "^13.6.0",
+    "firebase-functions": "^7.0.0",
+    "nodemailer": "^7.0.12"
+  },
+  "devDependencies": {
+    "firebase-functions-test": "^3.4.1"
+  },
+  "private": true
+}
+[debug] [2026-01-09T11:35:44.152Z] Building nodejs source
+[debug] [2026-01-09T11:35:44.152Z] Failed to find version of module node: reached end of search path /Users/hirdesh/AndroidStudioProjects/AuthDemo/functions/node_modules
+[info] ✔  functions: Using node@24 from host. 
+[debug] [2026-01-09T11:35:44.153Z] Could not find functions.yaml. Must use http discovery
+[debug] [2026-01-09T11:35:44.154Z] Found firebase-functions binary at '/Users/hirdesh/AndroidStudioProjects/AuthDemo/functions/node_modules/.bin/firebase-functions'
+[info] Serving at port 8827
+
+[debug] [2026-01-09T11:35:44.595Z] Got response from /__/functions.yaml {"endpoints":{"sendEmailOTP":{"availableMemoryMb":null,"timeoutSeconds":null,"minInstances":null,"maxInstances":null,"ingressSettings":null,"concurrency":null,"serviceAccountEmail":null,"vpc":null,"platform":"gcfv2","labels":{},"callableTrigger":{},"entryPoint":"sendEmailOTP"},"verifyEmailOTP":{"availableMemoryMb":null,"timeoutSeconds":null,"minInstances":null,"maxInstances":null,"ingressSettings":null,"concurrency":null,"serviceAccountEmail":null,"vpc":null,"platform":"gcfv2","labels":{},"callableTrigger":{},"entryPoint":"verifyEmailOTP"}},"specVersion":"v1alpha1","requiredAPIs":[],"extensions":{}}
+[debug] [2026-01-09T11:35:48.617Z] defaultcredentials: writing to file /Users/hirdesh/.config/firebase/gantavya2022_gmail_com_application_default_credentials.json
+[debug] [2026-01-09T11:35:48.618Z] Setting GAC to /Users/hirdesh/.config/firebase/gantavya2022_gmail_com_application_default_credentials.json {"metadata":{"emulator":{"name":"functions"},"message":"Setting GAC to /Users/hirdesh/.config/firebase/gantavya2022_gmail_com_application_default_credentials.json"}}
+[info] ✔  functions: Loaded functions definitions from source: sendEmailOTP, verifyEmailOTP. {"metadata":{"emulator":{"name":"functions"},"message":"Loaded functions definitions from source: sendEmailOTP, verifyEmailOTP."}}
