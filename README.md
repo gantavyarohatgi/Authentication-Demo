@@ -7,6 +7,7 @@ It features two distinct login methods:
 2.  **Passwordless Email OTP**: A custom implementation using Cloud Functions to send a 6-digit code via email (with expiration logic).
 
 **Note:** This project is configured to run on the **Firebase Local Emulator Suite** to avoid costs and ensure safe testing.
+
 Link for demo video: https://drive.google.com/file/d/1rZZLuOH7wvkzAXuzlsWTvQFLMqieX-OV/view?usp=sharing
 
 ---
