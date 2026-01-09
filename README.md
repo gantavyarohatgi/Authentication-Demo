@@ -58,7 +58,8 @@ The backend requires a `secrets.js` file to send emails. This file is ignored by
     npm install
     ```
 2.  Create a file named `secrets.js` inside the `functions/` folder.
-3.  Paste the following content (use your [Gmail App Password](https://myaccount.google.com/apppasswords)):
+3.  Create a 16 digit app password of your gmail account using the following link: (https://myaccount.google.com/apppasswords). These are confidential information and not to be share with anyone.
+4.  Paste the following content:
     ```javascript
     module.exports = {
         email: "YOUR_GMAIL@gmail.com",
